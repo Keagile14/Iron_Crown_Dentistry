@@ -16,32 +16,39 @@
 
 
     </div>
-       <section class="testimonials-section">
-    <div class="container">
-        <header class="section-header">
-            <h2>Services Offered</h2>
-         <p>Everything your smile might need - under one roof</p>
-        </header>
-        
-        <div class="reviews-grid">
-            <figure class="reviews-card">
-                <div class="stars">*****</div>
-           
-            <blockquote>
-                "Thank you Dr. Mahonza. You helped restore my beautiful smile"
-            </blockquote>
-            <div class="reviewee">
-                <footer>
+     <h2>Share your experience</h2>
 
-               
-                <cite class="name">Keagile Nduli</cite>
-                 </footer>
-            </div>
+     <p>We would love to hear about your experience with Iron Crown Dentistry</p>
+
+     <form action="#">
+        <div class="form-group">
+            <label for="name">Enter name</label>
+            <input type="text" id="name" name="name" placeholder="Enter name">
         </div>
-        
-         </figure>
-    </div>
-   
+        <div class="form-group">
+            <label for="rating">Reviews</label>
+            <select id="rating" name="rating" required>
+                <option value="" disabled selected>Select a rating</option>
+                <option value="5">***** <strong>5 Stars</strong></option>
+                <option value="4">****<strong>4 Stars</strong></option>
+                <option value="3">***<strong>3 Stars</strong></option>
+                <option value="2">**<strong>2 Stars</strong></option>
+                <option value="1">*<strong>1 Star</strong></option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="testimonials">Testimonial</label>
+            <textarea
+            id="testimonial"
+            name="testimonial"
+            rows="5"
+            placeholder="How was your experience?"
+            required>
+        </textarea>        
+        </div>
+        <button type="submit">Submit Review</button>
+     </form>
+
 
 </body>
 </html>
