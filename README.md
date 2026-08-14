@@ -57,7 +57,7 @@ The website features and functionality that the Iron Crown will have are:
 
     Enquire Page  
 
-    Interactive tool (WhatsApp feature for easier communication 
+    Interactive tool (WhatsApp feature for easier communication)
 
     Appointment booking page 
 
@@ -125,13 +125,11 @@ Maintenance (Bug fixes): R2000/mo
 Estimated Total yearly: R 33 792 
 
 References 
-
-Website goals : https://www.mitchlabs.com/blogpost/9-must-have-elements-to-enhance-your-dental-practice-website  
-
-KPIs to measure success: https://smileshopmarketing.com/top-kpis-to-measure-dental-practice-growth/  
-
-Proposed website features and functionality (Services): https://smilesolutions.co.za/root-canal-treatment/#Aesthetics-Dentistry  
-
-Design and user experience: https://www.magier.com/blog/best-dental-website-designs 
+Cesar Navarro,MS9 Must-Have Elements to Enhance Your Dental Practice Website [Online]Available at : https://www.mitchlabs.com/blogpost/9-must-have-elements-to-enhance-your-
+dental-practice-website
+Smileshopdentalmarketing (2026) Top KPIs to Measure Dental Practice Growth [Online]
+Available at: https://smileshopmarketing.com/top-kpis-to-measure-dental-practice-growth/
+Rifah Nawar(2026) Best Dental Website Designs to Turn Visitors into Patients [Online]
+Available at: https://www.magier.com/blog/best-dental-website-designs
 
 github repo: git@github.com:Keagile14/Keagile_Nduli_ST10545841.git
